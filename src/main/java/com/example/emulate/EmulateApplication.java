@@ -3,6 +3,11 @@ package com.example.emulate;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author XiaoshanDu
+ * @date 2019/1/7
+ */
+
 @SpringBootApplication
 public class EmulateApplication {
 
