@@ -13,6 +13,7 @@ public class EmulateApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(EmulateApplication.class, args);
+        System.out.println("哈哈哈");
     }
 
 }
