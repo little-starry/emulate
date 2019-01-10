@@ -22,3 +22,7 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+### Commitizen ###
+*.json
+/node_modules
